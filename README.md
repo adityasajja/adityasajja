@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying<br>👯 I’m looking to collaborate on any data related projects<br>🌱 I’m currently learning everything related to data<br>💬 Ask me about how to pass time<br>
+👯 I’m looking to collaborate on any data related projects<br>🌱 I’m currently learning everything related to data<br>💬 Ask me about how to pass time<br>
 
 
 ## 🌐 Socials:
